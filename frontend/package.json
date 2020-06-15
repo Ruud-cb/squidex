@@ -29,6 +29,7 @@
     "angular2-chartjs": "0.5.1",
     "babel-polyfill": "6.26.0",
     "bootstrap": "4.4.1",
+    "copy-webpack-plugin": "^6.0.2",
     "core-js": "3.6.4",
     "cropperjs": "2.0.0-alpha.1",
     "date-fns": "2.11.0",
