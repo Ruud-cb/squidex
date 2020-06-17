@@ -221,7 +221,7 @@ module.exports = function (env) {
                     { from: './node_modules/tinymce/skins', to: 'dependencies/tinymce/skins' },
                     { from: './node_modules/tinymce/themes/silver', to: 'dependencies/tinymce/themes/silver' },
   
-                    { from: './node_modules/ace-builds/src-min/ace.min.js', to: 'dependencies/ace/ace.min.js' },
+                    { from: './node_modules/ace-builds/src-min/ace.js', to: 'dependencies/ace/ace.js' },
                     { from: './node_modules/ace-builds/src-min/mode-javascript.js', to: 'dependencies/ace/mode-javascript.js' },
                     { from: './node_modules/ace-builds/src-min/worker-javascript.js', to: 'dependencies/ace/worker-javascript.js' },
 
